@@ -18,7 +18,7 @@ Welcome to the AI-Powered Option Trading Strategy GitHub repository! This projec
 11. [Backtesting](#11-backtesting-)
 12. [Visualizing Strategy Performance](#12-visualizing-strategy-performance-)
 13. [Conclusion and Future Directions](#13-conclusion-and-future-directions-%EF%B8%8F)
-14. [About Me](#14-about-me-)
+14. [About Me!](#14-about-me-)
 
 ## 1. Relevance of Options Trading and AI-Driven Strategies 📖
 
@@ -209,14 +209,14 @@ Options Strategy code snippet:
 
 ## 11. Backtesting 📆
 
-To evaluate the potential performance and profitability of the options trading strategy, backtesting is conducted on historical data. This process involves simulating trades based on the generated buy and sell signals, starting with a specified initial capital. The trades are executed according to the strategy's rules, and the cumulative returns are calculated over time. Backtesting on historical data provides valuable insights into the strategy's behavior under various market conditions and helps identify potential strengths and weaknesses.
+To evaluate the potential performance and profitability of the options trading strategy, backtesting is conducted on historical data. This process involves simulating trades based on the generated buy and sell signals, starting with a specified initial capital. The trades are executed according to the strategy's rules, and the cumulative returns are calculated over time. Backtesting on historical data provides valuable insights into the strategy's behavior under various market conditions and helps identify potential strengths and weaknesses.<br>
 Some outputs from backtesting:
 ![Screenshot 2024-05-01 at 2 16 09 PM](https://github.com/Rishthegod/Deep-Learning-Options-Strategy/assets/42285008/4b39bd13-f761-40d2-ab6f-d9222436c712)
 
 
 ## 12. Visualizing Strategy Performance 💸
 
-To facilitate a clear understanding of the strategy's performance during the backtesting period, a visualization of the cumulative returns is provided. This graph depicts the evolution of the portfolio value over time, reflecting the impact of the executed trades based on the generated signals. The visualization allows stakeholders to quickly grasp the strategy's potential profitability and assess its overall effectiveness.
+To facilitate a clear understanding of the strategy's performance during the backtesting period, a visualization of the cumulative returns is provided. This graph depicts the evolution of the portfolio value over time, reflecting the impact of the executed trades based on the generated signals. The visualization allows stakeholders to quickly grasp the strategy's potential profitability and assess its overall effectiveness.<br>
 Simulated Trading Scenario:
 ![cumulative return](https://github.com/Rishthegod/Deep-Learning-Options-Strategy/assets/42285008/7aebe649-b597-436a-8861-d8075e1c11c4)
 
