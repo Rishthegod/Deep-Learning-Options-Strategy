@@ -98,7 +98,11 @@ The initial step in this project involves downloading historical asset prices an
 
 ## 5. Feature Engineering
 
-To enhance the predictive capabilities of the deep learning model, a comprehensive set of features is engineered. This includes calculating various options Greeks (Delta, Gamma, Theta, Vega) using the widely accepted Black-Scholes model. Additionally, technical indicators such as Moving Average, Bollinger Bands, and Relative Strength Index (RSI) are incorporated. The reasoning behind this feature engineering approach is to provide the model with a rich representation of the option's characteristics and the underlying market dynamics, ultimately improving its ability to make accurate predictions.
+To enhance the predictive capabilities of the deep learning model, a comprehensive set of features was engineered. This includes calculating various options Greeks (Delta, Gamma, Theta, Vega) using the widely accepted Black-Scholes model. The reasoning behind this feature engineering approach is to provide the model with a rich representation of the option's characteristics and the underlying market dynamics, ultimately improving its ability to make accurate predictions.
+**In-depth explanations for the Greeks, as well as their formulas, can be found in the Notebook commentary.**
+Example Black-Scholes Theta code:
+<img width="1209" alt="Screenshot 2024-05-01 at 11 16 05 AM" src="https://github.com/Rishthegod/Deep-Learning-Options-Strategy/assets/42285008/1493c63c-a92a-44db-addd-dd42b7d4e599">
+
 
 ## 6. Deep Learning Model Architecture
 
